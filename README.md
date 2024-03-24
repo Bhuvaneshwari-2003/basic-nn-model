@@ -83,23 +83,27 @@ ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![image](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/ef6ec2b8-c11d-4fe4-b38b-6b84525456f9)
+![bhuvana](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/4d5f92dd-446c-4f94-991f-5a8d3da879cd)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![image](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/10e30976-6d04-4e5e-9f41-b077e35c94df)
+![bhuvi](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/d7bcd877-4360-46a2-a152-f3f946c07fa5)
+
 
 
 ### Test Data Root Mean Squared Error
 
-![image](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/3471e23c-f5c4-4224-b72e-fb50f1a6db71)
+![bhu](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/9df6bd73-2c98-49b3-b543-d132e626580e)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/cc07289d-cec0-4bfa-ba0f-04d2573bbaf6)
+![colab](https://github.com/Bhuvaneshwari-2003/basic-nn-model/assets/94828604/5f46b23d-71e1-4a7b-b267-4a3eae0c743c)
+
 
 
 ## RESULT
